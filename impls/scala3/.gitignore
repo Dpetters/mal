@@ -55,6 +55,8 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
+.idea
+
 out/
 
 # mpeltonen/sbt-idea plugin
@@ -148,6 +150,7 @@ src_managed/
 project/boot/
 project/plugins/project/
 .history
+.bsp/sbt.json
 .cache
 .lib/
 
